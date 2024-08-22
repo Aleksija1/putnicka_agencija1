@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #F4F6EF;
+}
+.navbar .nav-link, .navbar .btn {
+  color: #13294B;
+  font-weight: bold;
+}
+.btn-black {
+  background-color: #E4E9D8;
+  color: #13294B;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.btn-black:hover {
+  background-color: #DADFD1;
+}
+.carousel-item {
+  height: 500px; /* Set a fixed height for the carousel items */
+}
+
+.carousel-item img {
+  max-height: 120%;
+  max-width: 100%;
+  object-fit: cover; /* Ensure the image covers the carousel item without distortion */
+}
+
+

@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #F4F6EF;
+  }
+.navbar .nav-link, .navbar .btn {
+    color: #13294B;
+    font-weight: bold;
+  }
+ .btn-black {
+    background-color: #E4E9D8;
+    color: #13294B;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  }
+ .btn-black:hover {
+    background-color: #DADFD1;
+  }
+
+
+
+ .container {
+    max-width: 960px;
+}
+
+.card {
+    width: 100%;
+}
+
+.card-header {
+    background-color: #13296B;
+    color: white;
+}
+
+.rezervisi-btn {
+    background-color: #327D81;
+    border-color: #327D81;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+input.form-control, select.form-control {
+    background-color: #F4F6EF;
+}
+body{
+    background-color: #DAD7CD;
+}
